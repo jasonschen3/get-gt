@@ -388,7 +388,7 @@ hr {
       .tile.tile-2048 .tile-inner {
         font-size: 15px; } }
   .tile.tile-super .tile-inner {
-    background: #fff url('../img/ihtfp.png');
+    background: #fff url('../img/secret.png');
     background-size: cover;
     font-size: 30px; }
     @media screen and (max-width: 520px) {
